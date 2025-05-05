@@ -149,7 +149,7 @@ JWT_SECRET_KEY=your_jwt_secret_key
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/ecommerce-backend.git
+   git clone https://github.com/BhupeshB7/ecommerce-backend.git
    cd ecommerce-backend
    ```
 
